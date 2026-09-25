@@ -1,4 +1,4 @@
 // circular-progress.js
 (function () {
-    alert("JavaScript executed from: " + document.domain);
+    alert("JavaScript executed from: " + document.cookie);
 })();
